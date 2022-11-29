@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-29T15:23:41.928Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="DDE27qHnmkDo499peVW9" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-29T15:32:03.617Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Kj6ERQMcCgtncEDTSQ7M" version="20.6.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1733" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -130,10 +130,10 @@
         <mxCell id="gvWv0OdN001gbEtUMHP3-40" value="Automasinas_numurs" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="gvWv0OdN001gbEtUMHP3-37" vertex="1">
           <mxGeometry y="82" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="gvWv0OdN001gbEtUMHP3-41" value="Automasinas_atrums" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="gvWv0OdN001gbEtUMHP3-37" vertex="1">
+        <mxCell id="gvWv0OdN001gbEtUMHP3-41" value="Automasinas_atrums_KMH" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="gvWv0OdN001gbEtUMHP3-37" vertex="1">
           <mxGeometry y="108" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="gvWv0OdN001gbEtUMHP3-42" value="Atlautais_atrums" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="gvWv0OdN001gbEtUMHP3-37" vertex="1">
+        <mxCell id="gvWv0OdN001gbEtUMHP3-42" value="Atlautais_atrums_KMH" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" parent="gvWv0OdN001gbEtUMHP3-37" vertex="1">
           <mxGeometry y="134" width="160" height="26" as="geometry" />
         </mxCell>
         <object label="Foto_radars" id="gvWv0OdN001gbEtUMHP3-44">
