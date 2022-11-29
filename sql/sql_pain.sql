@@ -1,5 +1,5 @@
 --Aleksandrs Baranovskis 12.DIT
-
+DROP TABLE Demo;
 CREATE TABLE Ipasnieks(
   Personas_kods varchar(20) PRIMARY KEY NOT NULL,
   Vards varchar(30) NOT NULL,
@@ -93,3 +93,10 @@ VALUES('1','EW-6969'),
 ('2','RU-4921'),
 ('3','RU-4921'),
 ('3','FR-7856');
+
+SELECT * FROM Atruma_parkapums;
+SELECT * FROM Automasina;
+SELECT * FROM automasina_negadijums;
+SELECT * FROM Foto_radars;
+SELECT * FROM Ipasnieks;
+SELECT * FROM Negadijums;
